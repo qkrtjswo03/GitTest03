@@ -18,6 +18,5 @@ class ViewController: UIViewController {
         self.view.backgroundColor = UIColor.blue
     }
 
-
 }
 
